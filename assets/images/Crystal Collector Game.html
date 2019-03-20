@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<!-- saved from url=(0083)file:///Users/monching/Documents/UWbootcamp/UWABEL201901FSF2/unit-4-game/index.html -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script src="./Crystal Collector Game_files/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <link href="./Crystal Collector Game_files/css" rel="stylesheet">
+    <link rel="stylesheet" href="./Crystal Collector Game_files/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="file:///Users/monching/Documents/UWbootcamp/UWABEL201901FSF2/unit-4-game/assets/css/reset.css">
+    <link rel="stylesheet" href="file:///Users/monching/Documents/UWbootcamp/UWABEL201901FSF2/unit-4-game/assets/css/style.css">
+    <title>Crystal Collector Game</title>
+</head>
+
+<body>
+    <audio id="my-audio" src="assets/images/RuneScape music - RuneScape Theme Song.mp3" loop="loop"></audio>
+    <container>
+        <div class="jumbotron jumbotron-fluid">
+            <div class="container">
+                <h1 class="display-4">Crystal Collector Game</h1>
+                <p class="lead">Click on any crystal to begin the game!
+                </p>
+            </div>
+        </div>
+
+        <div id="rules">
+            <p>You will be given a random number at the start of the game. </p>
+            <p>There are four crystals below. By clicking on a crystal you will add a specific amount of points to your
+                total score.</p>
+            <p>You win the game by matching your total score to the random number generated at the beginning, you lose
+                the game if your total score goes above the random number.</p>
+            <p>The value of each crystal is hidden from you until you click on it.</p>
+            <p>Each time the game starts, the game will change the values of each crystal.</p>
+
+        </div>
+        <br><br><br>
+
+        <div class="record">
+            <h2 id="scoreMatch">Your end score should not exceed: 52</h2>
+            <p id="wins">Wins: 0</p>
+            <p id="losses">Losses: 0</p>
+            <h2 id="score">Current score: 0</h2>
+        </div>
+        <br><br><br>
+        <div class="gems">
+            <img id="gem0" src="file:///Users/monching/Documents/UWbootcamp/UWABEL201901FSF2/unit-4-game/assets/images/gem0.png" alt="gem0" style="width:300px;height:300px">
+            <img id="gem1" src="file:///Users/monching/Documents/UWbootcamp/UWABEL201901FSF2/unit-4-game/assets/images/gem1.png" alt="gem1" style="width:300px;height:300px">
+            <img id="gem2" src="file:///Users/monching/Documents/UWbootcamp/UWABEL201901FSF2/unit-4-game/assets/images/gem2.png" alt="gem2" style="width:300px;height:300px">
+            <img id="gem3" src="file:///Users/monching/Documents/UWbootcamp/UWABEL201901FSF2/unit-4-game/assets/images/gem3.png" alt="gem3" style="width:300px;height:300px">
+        </div>
+    </container>
+
+    <script type="text/javascript" src="file:///Users/monching/Documents/UWbootcamp/UWABEL201901FSF2/unit-4-game/assets/javascript/game.js"></script>
+
+
+
+</body></html>

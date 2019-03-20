@@ -1,0 +1,45 @@
+
+.jumbotron {
+    background-color:lavender;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Kaushan Script', cursive;
+}
+
+p {
+    font-family: 'Concert One', cursive;
+}
+
+#rules {
+    text-align: center;
+}
+
+.record {
+    text-align: center;
+}
+
+#wins {
+    font-size: 40px;
+}
+
+#losses {
+    font-size: 40px;
+}
+
+.gems {
+    padding-left: 300px;
+}
+
+#score {
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Concert One', cursive;
+}
+
+#scoreMatch {
+    color: rgb(79, 75, 75);
+    font-size: 20px;
+    font-family: 'Ultra', serif;
+}
