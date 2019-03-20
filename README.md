@@ -1,4 +1,4 @@
-In this repository, I have created a crystal collector game. This took HTML, minimal CSS, Jquery, Bootstrap, and Google Fonts to curate this game. For styling, I really wanted to go very minimal and create a simplistic look to the page. I felt that having a lavender colored jumbotron would compliment the crystal images that I chose for this game. I also do want to point out that selecting a transparent image of the crystals really made this page pop and look very aesthetically pleasing.
+In this repository, I have created a crystal collector game. This took HTML, CSS, Jquery, Bootstrap, and Google Fonts to curate this game. For styling, I really wanted to go very minimal and create a simplistic look to the page. I felt that having a lavender colored jumbotron would compliment the crystal images that I chose for this game. I also do want to point out that selecting a transparent image of the crystals really made this page pop and look very aesthetically pleasing.
 
 Below I will display my pseudocode when planning out this game from the start.
 
