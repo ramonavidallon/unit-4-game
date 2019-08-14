@@ -18,6 +18,8 @@
   <li> CSS </li>
   <li> Bootstrap </li>
   <li> Google Fonts </li>
+  
+  <br>
 
 <img width="1347" alt="crystalcollector050819" src="https://user-images.githubusercontent.com/43662571/63059067-42224680-bea3-11e9-8733-8a62f9f12b0a.png">
 
